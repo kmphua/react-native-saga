@@ -4,7 +4,7 @@
          "id":"1",
          "name":"Item 1",
          "description":"Item 1",
-         "amount":1360,
+         "amount":"1360",
          "currency":"EUR",
          "state":"CONFIRMED",
          "image":"https://s3.eu-west-1.amazonaws.com/pomelopay-qr-codes-lfw9qxg4-production/5ce3c9013163db3f9bd7fa62/transactions/5dc77df02320e626185d5021TQrCode.png"         
@@ -13,7 +13,7 @@
          "id":"2",
          "name":"Item 2",
          "description":"Item 2",
-         "amount":420,
+         "amount":"420",
          "currency":"EUR",
          "state":"CONFIRMED",
          "image":"https://s3.eu-west-1.amazonaws.com/pomelopay-qr-codes-lfw9qxg4-production/5ce3c9013163db3f9bd7fa62/transactions/5dc76d492320e643c95d5020TQrCode.png",
